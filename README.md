@@ -32,7 +32,8 @@ Aktuell suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwickl
 ### 📫 Kontakt
 
 - 📧 E-Mail: *aaronreitz01@gmail.com*
-- 💼 Lebenslauf (CV): [Hier als PDF herunterladen]()
+- 💼 Lebenslauf (CV): [Hier als PDF herunterladen](https://github.com/Aaronreitz/Aaronreitz/blob/main/lebenslauf.pdf)
+- (oder als MArkdown): [Hier als Markdown anzeigen]()
 
 ---
 
