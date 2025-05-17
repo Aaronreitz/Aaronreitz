@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi, ich bin Aaron 👋</h1>
 
-<!--
-**Aaronreitz/Aaronreitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Math & Computer Science Student • 💻 Hobby-Entwickler • 🎮 Gamer  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Über mich
+
+Ich bin ein leidenschaftlicher Informatik- und Mathematikstudent aus Deutschland 🇩🇪  
+Ich liebe es, in meiner Freizeit an Projekten zu arbeiten – egal ob Spiele, Algorithmen oder kleinere Tools.  
+Aktuell suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwicklung**, um mein Wissen weiter zu vertiefen und praxisnah einzusetzen.
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: C++, Python, HTML/CSS, JavaScript
+- **Tools**: Git & GitHub, VSCode, CLion, Godot
+- **Special Interests**: Algorithmen, OOP, Game Development, Mathe-Logik-Systeme
+
+---
+
+### 🔧 Projekte
+
+| Projekt | Beschreibung | Sprache |
+|--------|--------------|---------|
+
+---
+
+### 📫 Kontakt
+
+- 📧 E-Mail: *aaronreitz01@gmail.com*
+- 💼 Lebenslauf (CV): [Hier als PDF herunterladen]()
+
+---
+
