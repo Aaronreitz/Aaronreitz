@@ -27,6 +27,7 @@ Aktuell suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwickl
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
 | [Taschenrechner](https://github.com/Aaronreitz/html-css-taschenrechner) | Ein einfacher Taschenrechner mit HTML & CSS zur Übung im Frontend | HTML/CSS |
+| [TicTacToe (C++)](https://github.com/Aaronreitz/cpp-tictactoe) | Objektorientiertes TicTacToe-Spiel mit C++ Klassen | C++ |
 
 ---
 
