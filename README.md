@@ -26,6 +26,7 @@ Aktuell suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwickl
 
 | Projekt | Beschreibung | Sprache |
 |--------|--------------|---------|
+| [Taschenrechner](https://github.com/Aaronreitz/html-css-taschenrechner) | Ein einfacher Taschenrechner mit HTML & CSS zur Übung im Frontend | HTML/CSS |
 
 ---
 
