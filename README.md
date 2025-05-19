@@ -28,6 +28,9 @@ Aktuell suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwickl
 |--------|--------------|---------|
 | [Taschenrechner](https://github.com/Aaronreitz/html-css-taschenrechner) | Ein einfacher Taschenrechner mit HTML & CSS zur Übung im Frontend | HTML/CSS |
 | [TicTacToe (C++)](https://github.com/Aaronreitz/cpp-tictactoe) | Objektorientiertes TicTacToe-Spiel mit C++ Klassen | C++ |
+| [Tower of Hanoi](https://github.com/Aaronreitz/cpp-TowerOfHanoi) | Umsetzung des Tower-of-Hanoi-Problems mit Klassen, Headern und Rekursion | C++ |
+| [b-adische Darstellung](https://github.com/Aaronreitz/cpp-b-adische-Darstellung) | Umrechner von Dezimalzahlen in beliebige Basen (z. B. Binär, Hex, Oktal) | C++ |
+| [Uni-Aufgaben-Sammlung](https://github.com/Aaronreitz/cpp-UniAufgaben) | Sammlung kleiner C++-Aufgaben aus dem Studium (z. B. Collatz, Primzahlen, Volumen) | C++ |
 
 ---
 
