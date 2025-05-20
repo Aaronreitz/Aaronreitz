@@ -31,6 +31,7 @@ Aktuell suche ich eine Ausbildung als **Fachinformatiker für Anwendungsentwickl
 | [Tower of Hanoi](https://github.com/Aaronreitz/cpp-TowerOfHanoi) | Umsetzung des Tower-of-Hanoi-Problems mit Klassen, Headern und Rekursion | C++ |
 | [b-adische Darstellung](https://github.com/Aaronreitz/cpp-b-adische-Darstellung) | Umrechner von Dezimalzahlen in beliebige Basen (z. B. Binär, Hex, Oktal) | C++ |
 | [Uni-Aufgaben-Sammlung](https://github.com/Aaronreitz/cpp-UniAufgaben) | Sammlung kleiner C++-Aufgaben aus dem Studium (z. B. Collatz, Primzahlen, Volumen) | C++ |
+| [Ausgabenkalender](https://github.com/Aaronreitz/py-Ausgabenkalender-Gui) | GUI-Anwendung in Python zur Eingabe und Anzeige von Einnahmen und Ausgaben mit Tkinter | Python |
 
 ---
 
