@@ -6,7 +6,7 @@
 
 ---
 
-### ✨ Über mich
+### Über mich
 
 Ich bin ein leidenschaftlicher Informatik- und Mathematikstudent aus Deutschland 🇩🇪  
 Ich liebe es, in meiner Freizeit an Projekten zu arbeiten – egal ob Spiele, Algorithmen oder kleinere Tools.  
